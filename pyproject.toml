@@ -1,0 +1,23 @@
+[project]
+name = "dillons-scraper"
+version = "0.1.0"
+description = "Headless scraper for Dillons sale items using Selenium + undetected-chromedriver"
+authors = [{ name = "rory" }]
+requires-python = ">=3.13"
+
+dependencies = [
+    "undetected-chromedriver",
+    "beautifulsoup4",
+    "lxml",
+    "pydantic",
+    "rich",
+    "setuptools",
+    "pdfplumber",
+    "requests",
+    "pdfminer.six",
+    "pytesseract",
+    "poppler-utils",
+    "pdf2image",
+    "nltk"
+]
+

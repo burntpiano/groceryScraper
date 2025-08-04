@@ -1,0 +1,6 @@
+.venv/
+saleDatabase/
+debug.html
+*.log
+pdfscrape.py.extra
+vscodiumSetup.py
